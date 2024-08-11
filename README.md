@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AJAYSINGH0123
 - 👀 I’m interested in Python and App Development
 - 🌱 I’m currently learning Python dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to work on python and app development
 - 📫 How to reach me:- ajay.kaps2000@gmail.com
 
 <!---
